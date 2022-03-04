@@ -87,6 +87,7 @@ img {
   float: right;
   word-spacing: 80px;
   padding-right: 80px;
+  
 }
 
 .clearfix {
@@ -97,4 +98,20 @@ p {
   font-size: 12px;
   padding-top: 15px;
   margin-left: 75px;
+  
+}
+
+.para {
+    position: relative;
+    text-align: left;
+    font-family: Montserrat, Arial, Helvetica, sans-serif ;
+    padding-top: 200px;
+    padding-left: 80px;
+    
+}
+
+.para-right{
+  padding-left: 150px;
+  font-size: small;
+  font-family: Verdana, Geneva, Tahoma, sans-serif
 }
